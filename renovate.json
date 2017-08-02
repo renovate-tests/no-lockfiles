@@ -1,3 +1,9 @@
 {
+  "packages": [
+    {
+      "packageName": "axis",
+      "enabled": false
+    }
+  ],
   "separatePatchReleases": true
 }
