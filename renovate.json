@@ -5,8 +5,11 @@
       "enabled": false
     }
   ],
-  "dependencies": {
-    "prTitle": "roarrrrrrr"
-  },
+  "depTypes": [
+    {
+      "depType": "dependencies",
+      "semanticCommits": true
+    }
+  ],
   "separatePatchReleases": true
 }
