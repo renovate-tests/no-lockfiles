@@ -5,5 +5,8 @@
       "enabled": false
     }
   ],
+  "dependencies": {
+    "prTitle": "roarrrrrrr"
+  },
   "separatePatchReleases": true
 }
