@@ -7,9 +7,9 @@
   ],
   "depTypes": [
     {
+      "semanticCommits": true,
       "depType": "dependencies"
     }
   ],
-   "semanticCommits": true,
   "separatePatchReleases": true
 }
