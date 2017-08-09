@@ -5,6 +5,5 @@
       "enabled": false
     }
   ],
-  "separatePatchReleases": true,
-  "semanticCommits": false
+  "separatePatchReleases": true
 }
