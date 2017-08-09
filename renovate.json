@@ -5,11 +5,5 @@
       "enabled": false
     }
   ],
-  "depTypes": [
-    {
-      "semanticCommits": true,
-      "depType": "dependencies"
-    }
-  ],
   "separatePatchReleases": true
 }
