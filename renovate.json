@@ -1,4 +1,5 @@
 {
+  "presets": ["library"],
   "packages": [
     {
       "packageName": "axis",
