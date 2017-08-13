@@ -6,5 +6,6 @@
       "enabled": false
     }
   ],
+  "unpublishSafe": true,
   "separatePatchReleases": true
 }
