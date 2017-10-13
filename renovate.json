@@ -1,10 +1,12 @@
 {
-  "extends": ["library"],
+  "extends": [":library"],
   "packages": [
     {
       "packageName": "axis",
       "enabled": false
     }
   ],
+  "automerge": true,
+  "assignees": ["renovate-tests"],
   "separatePatchReleases": true
 }
