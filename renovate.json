@@ -8,5 +8,6 @@
   ],
   "automerge": true,
   "assignees": ["renovate-tests"],
+  "reviewers": ["renovate-tests"],
   "separatePatchReleases": true
 }
