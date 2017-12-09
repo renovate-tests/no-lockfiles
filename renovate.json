@@ -9,6 +9,5 @@
   "automerge": true,
   "assignees": ["renovate-tests"],
   "reviewers": ["rarkins"],
-  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "separatePatchReleases": true
 }
